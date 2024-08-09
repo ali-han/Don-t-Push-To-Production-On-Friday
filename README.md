@@ -1,7 +1,6 @@
 # Don't Push To Production On Friday
 
-<img src="https://pbs.twimg.com/profile_images/1679831765744259073/hoVtsOZ9_400x400.jpg">
-
+<img src="images/deploy_at_5_on_friday_sure.jpg">
 Don't Push To Production On Friday
 
 Welcome to the "Don't Push To Production On Friday" repository. This project serves as a light-hearted reminder to avoid making production deployments on Fridays. Let's keep our weekends stress-free!
